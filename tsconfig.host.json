@@ -417,6 +417,8 @@
     { "path": "./packages/session-query/session-query" },
     { "path": "./packages/session-query/session-query-sqlite" },
     { "path": "./packages/experimental/deepseek-chat-import/tsconfig.host.json" },
+    { "path": "./packages/experimental/social/tsconfig.host.json" },
+    { "path": "./packages/experimental/social-bundle" },
     { "path": "./packages/session-query/session-log-export/tsconfig.host.json" },
     { "path": "./packages/settings/settings" },
     { "path": "./packages/credentials/credentials" },

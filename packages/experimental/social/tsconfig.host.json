@@ -1,0 +1,31 @@
+{
+  "extends": "../../../tsconfig.base.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "lib/types",
+    "tsBuildInfoFile": "lib/tsconfig.host.tsbuildinfo"
+  },
+  "files": [
+    "src/backend.ts",
+    "src/import-session.ts",
+    "src/index.ts",
+    "src/readonly.ts",
+    "src/sanitize.ts",
+    "src/types.ts"
+  ],
+  "references": [
+    { "path": "../../../vendor/cordis" },
+    { "path": "../../../vendor/schemastery" },
+    { "path": "../../core/agent" },
+    { "path": "../../core/session" },
+    { "path": "../../credentials/deepseek-account" },
+    { "path": "../../session/session-persistence" },
+    { "path": "../../session/session-projection-cache" },
+    { "path": "../../session/session-title" },
+    { "path": "../../session-query/session-log-export/tsconfig.host.json" },
+    { "path": "../../session-query/session-query" },
+    { "path": "../../typert/protocol" },
+    { "path": "../../util/brand" },
+    { "path": "../../workspace/workspace" }
+  ]
+}

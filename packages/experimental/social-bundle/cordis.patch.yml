@@ -1,0 +1,9 @@
+# Optional friends + read-only session share. Shipped profiles do not include this layer.
+# Mock store is single-Host only; cross-install delivery needs a future HTTP backend.
+- insert:
+    - id: social
+      name: '@deepseek-ai/dsh-social'
+      config:
+        backend: mock
+        mockStorePath: !!js dshHomePath('social', 'mock-store.json')
+        maxSnapshotBytes: 8388608

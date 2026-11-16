@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Friends and shares",
+    "description": "Experimental friends list and read-only session share inbox for DeepSeek accounts. Mock backend is single-Host only.",
+    "detail": "docs/DETAIL.md"
+  }
+}

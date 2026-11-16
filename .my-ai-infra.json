@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "tools": [
+    "codex",
+    "cursor"
+  ],
+  "skills": [
+    "my-auto-design",
+    "my-auto-feature",
+    "my-init-repo-memory",
+    "my-simple-feature",
+    "my-create-feature",
+    "my-create-prd",
+    "my-create-design",
+    "my-review-design",
+    "my-create-test-plan",
+    "my-implement-code",
+    "my-review-code",
+    "my-analyze-debt",
+    "my-create-memory",
+    "my-create-worktree",
+    "my-ai-infra"
+  ]
+}

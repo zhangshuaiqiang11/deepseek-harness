@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "好友与分享",
+    "description": "通过账号 ID 加好友并发送只读对话副本。Mock 后端仅在同一安装内可用。",
+    "detail": "docs/DETAIL.md"
+  }
+}

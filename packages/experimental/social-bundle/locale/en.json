@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Friends and shares",
+    "description": "Add friends by account id and send read-only conversation copies. Mock backend works inside one install only.",
+    "detail": "docs/DETAIL.md"
+  }
+}

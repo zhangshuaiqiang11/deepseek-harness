@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "好友与分享",
+    "description": "实验性好友列表与只读会话分享收件箱（DeepSeek 账号）。Mock 后端仅限单 Host。",
+    "detail": "docs/DETAIL.md"
+  }
+}
